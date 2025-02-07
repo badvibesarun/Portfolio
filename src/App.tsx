@@ -91,9 +91,8 @@ function App() {
         Contact Me
       </a>
       <a  
-  href={`${import.meta.env.BASE_URL}Resume.pdf`} 
- 
-  download="Arun_Kumar_Resume.pdf"
+  href="/Resume.pdf" 
+  download="Arun Kumar's Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className={`px-6 py-3 rounded-lg border transition duration-300
