@@ -90,8 +90,9 @@ function App() {
           : 'bg-blue-500 hover:bg-blue-600 text-white'} transition duration-300`}>
         Contact Me
       </a>
-      <a 
-  href="./images/Resume.pdf" 
+      <a  
+  href={`${import.meta.env.BASE_URL}Resume.pdf`} 
+ 
   download="Arun_Kumar_Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
