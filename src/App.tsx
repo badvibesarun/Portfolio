@@ -90,9 +90,9 @@ function App() {
           : 'bg-blue-500 hover:bg-blue-600 text-white'} transition duration-300`}>
         Contact Me
       </a>
-      <a  
-  href="/Resume.pdf" 
-  download="Arun Kumar's Resume.pdf"
+      <a 
+  href="/Portfolio/Resume.pdf" 
+  download="Arun_Kumar_Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className={`px-6 py-3 rounded-lg border transition duration-300
@@ -104,6 +104,7 @@ function App() {
 >
   Download Resume
 </a>
+
 
     </div>
   </div>
