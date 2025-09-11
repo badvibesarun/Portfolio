@@ -334,7 +334,7 @@ function App() {
                   <span className="inline-block bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-200 px-2 py-0.5 rounded-full text-xs font-semibold border border-green-200 dark:border-green-700">30 Days</span>
                   <span className="font-semibold">🏆 Full Stack Web Development Internship – Novitech Pvt Ltd</span>
                   <a
-                    href={`${import.meta.env.BASE_URL}/FullStack_Internship_Certificate.pdf`} 
+                    href={`${import.meta.env.BASE_URL}FullStack_Internship_Certificate.pdf`} 
                     download
                     target="_blank"
                     rel="noopener noreferrer"
@@ -352,7 +352,7 @@ function App() {
                   <span className="inline-block bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-200 px-2 py-0.5 rounded-full text-xs font-semibold border border-blue-200 dark:border-blue-700">3 Days</span>
                   <span className="font-semibold">🏆 Flutter Development Webinar Certificate</span>
                   <a
-                    href={`${import.meta.env.BASE_URL}/Flutter_Certificate.pdf`} 
+                    href={`${import.meta.env.BASE_URL}Flutter_Certificate.pdf`} 
                     download
                     target="_blank"
                     rel="noopener noreferrer"
@@ -370,7 +370,7 @@ function App() {
                   <span className="inline-block bg-purple-100 text-purple-700 dark:bg-purple-900 dark:text-purple-200 px-2 py-0.5 rounded-full text-xs font-semibold border border-purple-200 dark:border-purple-700">NPTEL</span>
                   <span className="font-semibold">🏆Introduction to Machine Learning-Certified by IIT Madras</span>
                   <a
-                    href={`${import.meta.env.BASE_URL}/Introduction_to_Machine_Learning_Certificate(NPTEL).pdf`} 
+                    href={`${import.meta.env.BASE_URL}Introduction_to_Machine_Learning_Certificate(NPTEL).pdf`} 
                     download
                     target="_blank"
                     rel="noopener noreferrer"
